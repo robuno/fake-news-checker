@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 models/dsets/
-models/saved_objs/
+models/saved_objs/classifiers
